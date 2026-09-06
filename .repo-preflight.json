@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/open-fpga-verilog-tutorial",
+  "decision": "no-change-required",
+  "reviewedCommit": "b13890217359e1e1153501c1be278347ee5e7e24",
+  "operation": "inspect",
+  "files": {
+    "README.md": "ef80a0429f6ef029e8f193e32e37d4cb65e62dc7ca43968cc9d3b9afdef28b0e"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: full README and 1,660-entry tutorial/source tree establish FPGA educational material. No active coding-agent surface found by role review; no synthesis, installation, device operation or claim of validating the tutorial.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.293Z",
+  "publicationApproved": false
+}
